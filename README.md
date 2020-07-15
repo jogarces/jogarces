@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hello, friends!
+<p>💬 I'm Jo. I build, break, and fix things as a Software Developer at <a href="https://www.revacomm.com/">RevaComm</a>.<br>
+  🙀 Outside of programming, I like petting cats and baking pastries.<br>
+</p>
 
-<!--
-**jogarces/jogarces** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
+<b>I’m currently learning... </b>
+<ul>
+  <li>the advanced settings on my camera</li>
+  <li>how to make good pizza dough</li>
+  <li>microservices architecture</li>
+  <li>.net core + react</li>
+</ul>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

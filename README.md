@@ -1,5 +1,5 @@
 ### Hello, friends!
-<p>💬 I'm Jo. I build, break, and fix things as a Software Developer at <a href="https://www.revacomm.com/">RevaComm</a>.<br>
+<p>💬 I'm Jo. I build, break, and fix things.<br>
   🙀 Outside of programming, I like petting cats and baking pastries.<br>
 </p>
 

@@ -9,7 +9,7 @@
   <li>the advanced settings on my camera</li>
   <li>how to make good pizza dough</li>
   <li>microservices architecture</li>
-  <li>.net core + react</li>
+  <li>react</li>
 </ul>
 
 

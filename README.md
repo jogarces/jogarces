@@ -1,6 +1,6 @@
 ### Hello, friends!
-<p>💬 I'm Jo. I build, break, and fix things.<br>
-  🙀 Outside of programming, I like petting cats and baking pastries.<br>
+<p>💬  I'm Jo. I build, break, and fix things.<br>
+  🙀  Outside of programming, I like petting cats and baking pastries.<br>
 </p>
 
 <br>

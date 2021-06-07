@@ -4,7 +4,7 @@
 </p>
 
 <br>
-<b>I’m currently learning... </b>
+<b>I’m currently focused on improving my knowledge and experience with... </b>
 <ul>
   <li>microservices architecture</li>
   <li>react</li>

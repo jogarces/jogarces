@@ -6,7 +6,6 @@
 <br>
 <b>I’m currently learning... </b>
 <ul>
-  <li>the advanced settings on my camera</li>
   <li>microservices architecture</li>
   <li>react</li>
   <li>ui/ux design</li>
